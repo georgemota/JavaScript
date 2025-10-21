@@ -33,7 +33,7 @@ Cada proyecto incluye temas como:
 
 Este repositorio tiene como meta documentar mi progreso y dominio del lenguaje **JavaScript puro (Vanilla JS)**, sirviendo como base para proyectos más avanzados en frameworks como **React** y **Angular**.
 
-> 🚀 En futuras versiones se incluirá un flujo de despliegue automático mediante **GitHub Actions** y **GitHub Pages**.
+> En futuras versiones se incluirá un flujo de despliegue automático mediante **GitHub Actions** y **GitHub Pages**.
 
 ---
 
